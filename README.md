@@ -38,6 +38,7 @@ By default java8 is active. If you want to change the java version execute the c
 | java9   | java 9       |
 | java10  | java 10      |
 | java11  | java 11      |
+| java12  | java 12      |
 
 
 ## More information about oh-my-zsh and oh-my-zsh plugins
